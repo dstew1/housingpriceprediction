@@ -24,7 +24,7 @@ This project:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/dstew/housing-price-prediction.git
+   git clone https://github.com/dstew1/housing-price-prediction.git
    cd housing-price-prediction
 
 2. Install requirements:
