@@ -16,8 +16,8 @@ This project:
 
 ## 📁 Files
 
-- `housing_price_estimate.py` — main training and evaluation script
-- `housing_price_estimate.pynb` — ^ notebook format 
+- `housingpriceestimate.py` — main training and evaluation script
+- `housingpriceestimate.pynb` — ^ notebook format 
 - `requirements.txt` — libraries used in this project
 
 ## 🚀 How to Run
