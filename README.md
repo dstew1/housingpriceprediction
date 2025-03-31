@@ -17,7 +17,7 @@ This project:
 ## 📁 Files
 
 - `housingpriceestimate.py` — main training and evaluation script
-- `HousingPriceEstimate.pynb` — ^ notebook format 
+- `HousingPriceEstimate.pynb` — ^ Jupyter/Colab notebook version
 - `requirements.txt` — libraries used in this project
 
 ## 🚀 How to Run
@@ -35,7 +35,7 @@ This project:
 
 4. Run the script:
    ```bash
-   python housing_price_estimate.py
+   python housingpriceestimate.py
   
 ## ✅ Results
 
